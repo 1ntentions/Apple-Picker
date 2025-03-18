@@ -1,4 +1,4 @@
-#Apple Picker
+# Apple Picker
 
 I made the following additions after following the tutorial from chapter 30 of "Introduction to Game Design, Prototyping, and Development":
 

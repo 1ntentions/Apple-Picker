@@ -1,6 +1,6 @@
 # Apple Picker
 
-I made the following additions after following the tutorial from chapter 30 of "Introduction to Game Design, Prototyping, and Development":
+I made the following additions after following the tutorial from chapter 29 of "Introduction to Game Design, Prototyping, and Development":
 
 -A start screen with a start button
 
